@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "iconv": "^2.1.4",
-    "node-expat": "pagarme/node-expat",
+    "node-expat": "https://github.com/pagarme/node-expat/archive/v2.3.18.tar.gz",
     "readable-stream": "^1.0.31"
   },
   "directories": {
