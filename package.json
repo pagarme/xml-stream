@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "iconv": "^2.1.4",
-    "node-expat": "^2.3.7",
+    "node-expat": "pagarme/node-expat",
     "readable-stream": "^1.0.31"
   },
   "directories": {
@@ -30,6 +30,6 @@
   },
   "main": "index",
   "devDependencies": {
-    "mocha": "^1.21.4"
+    "mocha": "6.1.4"
   }
 }
